@@ -1,0 +1,9 @@
+dataset,model,macro_f1
+covid-vax-stance,LR,0.3955
+covid-vax-stance,SVM,0.4931
+TweetEval-stance,LR,0.3719
+TweetEval-stance,SVM,0.511
+CVS→TweetEval (transfer),LR,0.182
+CVS→TweetEval (transfer),SVM,0.2293
+TweetEval→CVS (transfer),LR,0.1196
+TweetEval→CVS (transfer),SVM,0.1929
